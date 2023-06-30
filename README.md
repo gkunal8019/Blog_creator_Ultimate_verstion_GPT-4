@@ -11,10 +11,13 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Acknowledgements](#acknowledgements)
 
 ## Project Description
 
-This project aims to create a model that exceeds the capabilities of GPT-4 for generating high-quality blog posts and social media content. The model utilizes LangChain for vector storage, Fassis for open secure live data storage, Google API for various functionalities, and Hugging Face for embedding. The project's ultimate goal is to develop a superior model that can generate blog posts, enabling users to easily share engaging content on social media platforms.
+This project aims to create a model that exceeds the capabilities of GPT-4 for generating high-quality blog posts and social media content. By leveraging advanced technologies and tools, including LangChain for vector storage, Fassis for open secure live data storage, Google API for various functionalities, and Hugging Face for embedding, our goal is to develop a superior model that can generate engaging and captivating content. The primary objective is to enable users to easily create and share high-quality blog posts on social media platforms.
+
+> ![Red Line](https://user-images.githubusercontent.com/113965073/192951189-bc2ab95b-1606-4e74-ba5f-0cf1213359f2.jpg)
 
 ## Features
 
@@ -64,3 +67,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 I would like to thank [LangChain](https://langchain.com), [Fassis](https://fassis.io), Google API, and Hugging Face for their contributions to this project. Additionally, I extend my gratitude to the open-source community for their support and inspiration throughout the development process.
+
+> ![Red Line](https://user-images.githubusercontent.com/113965073/192951189-bc2ab95b-1606-4e74-ba5f-0cf1213359f2.jpg)
