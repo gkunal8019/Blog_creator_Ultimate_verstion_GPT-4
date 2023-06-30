@@ -1,3 +1,5 @@
+Sure! Here's an updated version with the comparison highlights included:
+
 # Project Name
 
 > A model surpassing GPT-4 for generating blog posts and social media content
@@ -12,6 +14,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
+- [Comparison Document](#comparison-document)
 
 ## Project Description
 
@@ -60,9 +63,28 @@ Contributions are welcome! If you would like to contribute to the project, pleas
 4. Push to the branch: `git push origin feature/your-feature`.
 5. Submit a pull request.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
 I would like to thank [LangChain](https://langchain.com), [Fassis](https://fassis.io), Google API, and Hugging Face for their contributions to this project. Additionally, I extend my gratitude to the open-source community for their support and inspiration throughout the development process.
 
-> ![Red Line](https://user-images.githubusercontent.com/113965073/192951189-bc2ab95b-1606-4e74-ba5f-0cf1213359f2.jpg)
+> ![Red Line](https://user-images.githubusercontent.com/113965073/192951189-bc2ab95b-1606-4e74-ba5f-0cf1213359f2
+
+.jpg)
+
+## Comparison Document
+
+For a detailed comparison between GPT-4 and our model, please refer to the [Comparison Document](https://docs.google.com/document/d/e/2PACX-1vQzn5pCLAV8DGyuOeeh1CZJKoh_74DYwcZKNAC3jZgF8T96alljR9iziKRivDAw4WRVOEVuxgo8JRDu/pub). 
+
+Highlights of the comparison include:
+
+- **Enhanced Quality**: Our model generates blog posts and social media content with higher quality compared to GPT-4.
+- **Improved Efficiency**: The use of LangChain for vector storage allows for more efficient data handling and retrieval.
+- **Secure Data Storage**: Fassis ensures the safety of live data by providing an open and secure live data storage platform.
+- **Additional Functionality**: Google API is integrated into our model, providing access to a range of additional functionalities.
+- **Powerful Text Embedding**: Leveraging Hugging Face, our model utilizes advanced text embedding techniques for more accurate and contextual content generation.
+
+The comparison document provides a comprehensive analysis of these key areas, highlighting the advantages our model offers over GPT-4.
